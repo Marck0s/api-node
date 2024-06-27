@@ -23,7 +23,7 @@ API para gerir usuários, incluindo funcionalidades de criação, atualização,
 
 ##### Bash
 ```
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Marck0s/api-node
 cd seu-repositorio
 ```
 
